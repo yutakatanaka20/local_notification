@@ -1,2 +1,21 @@
-# local_notification
-class notes on local_notification
+- flutter runの流れ（Android 開発環境）
+    1. ...
+    2. ...
+    3. ...
+    4. ...
+    5. ...
+    6. ...
+- 専門用語
+    - APK
+        - ファイル形式の一種。Androidでは、（　）。
+        - Windowsでいう、（　）に近い
+        - すなわちAndroidの場合、flutter runの最終目標は、（　）。
+    - 中間表現
+        - ...
+    - Gradle
+        - Android開発で用いられるビルド自動化ツール。コンパイルとかを自動でやってくれる。（　）。
+    - AndroidManifest.xml
+        - Androidアプリの設定をまとめたファイル。（　）。
+        - xml
+            - htmlと同じく、タグを用いて記述するマークアップ言語。ブラウザで表示するhtmlとは違い、データフォーマットとして扱われる
+            - よく使われるデータフォーマットとして、他にCSVやJSONなどがある
